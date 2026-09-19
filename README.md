@@ -24,7 +24,7 @@ proyecto-ML/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/Josephcpf/proyecto-ML.git
 cd proyecto-ML
 ```
 
