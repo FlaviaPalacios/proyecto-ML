@@ -1,0 +1,25 @@
+# Datos (no versionar, son pesados y se descargan de Kaggle)
+data/raw/
+data/processed/
+*.csv
+*.csv.gz
+
+# Notebooks - checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Outputs generados
+outputs/*.json
+reports/figures/*.png
+
+# Entorno / editor
+.vscode/
+.DS_Store
+.env
