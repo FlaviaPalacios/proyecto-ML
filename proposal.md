@@ -5,9 +5,9 @@
 Predicción de riesgo de default en préstamos personales: un enfoque honesto sin leakage sobre Lending Club Loan Data
 
 ## 2. Integrantes
--Shillta Huaman, Dalesska Belinda Isabel 202320097
--Palacios Dávalos, Flavia Luciana 202110258
--Joseph Jossemy, Cabanillas Solis 202410347
+- Shillta Huaman, Dalesska Belinda Isabel 202320097
+- Palacios Dávalos, Flavia Luciana 202110258
+- Joseph Jossemy, Cabanillas Solis 202410347
 
 
 ## 3. Dataset elegido
