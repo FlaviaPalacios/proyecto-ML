@@ -68,14 +68,9 @@ O abrirlo directamente en VS Code con la extensión de Jupyter y correr todas la
   - Recall clase "Malo" (default): **0.57**
 - Se observó *drift* temporal entre años: tasa de default de 21.9% en train (2015-2017) vs. 15.8% en valid (2018), relevante para la estrategia de validación de las siguientes etapas.
 
-## Estado del proyecto
-
-- [x] Entrega previa (semana 1): problema definido, exploración inicial, baseline.
-- [ ] Limpieza y feature engineering (`notebooks/02_limpieza_features.ipynb`).
-- [ ] Modelos adicionales y comparación (`notebooks/03_modelos.ipynb`).
-- [ ] Análisis de errores e interpretabilidad (`notebooks/04_analisis_errores.ipynb`).
-- [ ] Informe final y presentación.
 
 ## Equipo
+
+
 
 Grupo 11 — ver integrantes en [`proposal.md`](./proposal.md).
