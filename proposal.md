@@ -9,7 +9,6 @@ Predicción de riesgo de default en préstamos personales: un enfoque honesto si
 - Palacios Dávalos, Flavia Luciana 202110258
 - Joseph Jossemy, Cabanillas Solís 202410347
 
-*(completar con los nombres reales del equipo antes de entregar)*
 
 ## 3. Dataset elegido
 **Lending Club Loan Data** (Kaggle / Lending Club)
